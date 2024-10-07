@@ -1,4 +1,5 @@
 Watermark App
+
 A simple GUI-based watermarking application built with Python, using Tkinter and Pillow (PIL). This app allows users to add custom watermarks to images, position the watermark using mouse drag, and save the edited image to the computer.
 Features:
 - Select Image: Choose a image file from the computer to add the watermark using a filedialog (it can be a .jpg, .jpeg, .png, .bmp, and .gif).
