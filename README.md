@@ -15,8 +15,10 @@ Prerequisites:
 Running the application:
 
 1- Clone this repository or download the project files.
-2- Install the necessary prerequisites
-3- Run the Python script to start the application
+
+2- Install the necessary prerequisites.
+
+3- Run the Python script to start the application.
 
   python watermark_app.py
   
