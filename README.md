@@ -13,9 +13,11 @@ A simple GUI-based watermarking application built with Python, using Tkinter and
 - Save Image: Save the image with the watermark by specifying a file name.
 
 <h2>Prerequisites:</h2>
+
   - Python 3.6 or higher installed on your system.
-  - Pillow library installed. Run the following command to install it:
   
+  - Pillow library installed. Run the following command to install it:
+  ##
       python watermark_app.py
 
 <h2>Running the application:</h2>
